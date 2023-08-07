@@ -1,0 +1,3 @@
+displayName = ReSplendent
+author = ReSplend Mod dev team
+version = 0.1

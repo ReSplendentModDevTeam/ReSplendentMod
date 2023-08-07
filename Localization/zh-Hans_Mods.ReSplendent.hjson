@@ -1,0 +1,108 @@
+# This file will automatically update with entries for new content after a build and reload
+
+Items: {
+	# Armors: {
+	AluminumCuirass: {
+		DisplayName: 铝胸甲
+		Tooltip: 轻装上阵
+	}
+
+	AluminumLeggings: {
+		DisplayName: 铝护胫
+		Tooltip: 毫无保护感
+	}
+
+	AluminumHelmet: {
+		DisplayName: 铝头盔
+		Tooltip: 更像是一顶帽子
+	}
+
+	# }Armors
+	
+	
+	
+	# Weapons: {
+	AluminumBroadSword: {
+		DisplayName: 铝阔剑
+		Tooltip: 总所周知，铝容易氧化，要是用在敌人身上呢？
+	}
+
+	AluminumShortSword: {
+		DisplayName: 铝短剑
+		Tooltip: 小心划到手，因为它太轻了！
+	}
+
+	AluminumBow: {
+		DisplayName: 铝弓
+		Tooltip: 它也许会回弹呢？
+	}
+
+	AluminumBoomerang: {
+		DisplayName: 铝锡回旋镖
+		Tooltip: 原子切割
+	}
+
+	AluminumSpear: {
+		DisplayName: 铝锡长矛
+		Tooltip: 你确定这是一个长矛？
+	}
+
+	AluminumYoyo: {
+		DisplayName: 铝制悠悠球
+		Tooltip: 为什么老是轻飘飘的？
+	}
+
+	AluminumDart: {
+		DisplayName: 铝飞镖
+		Tooltip: 突然分裂！
+	}
+
+	# }Weapons
+	
+	
+	
+	# Placeables: {
+	AluminumBar: {
+		DisplayName: 铝锭
+		Tooltip: 拿在手上轻飘飘的
+	}
+
+	AluminumOre: {
+		DisplayName: 铝矿石
+		Tooltip: 如初轻飘飘的矿石
+	}
+
+	# }Placables
+	
+	
+	
+	# Tools: {
+	AluminumPickaxe: {
+		DisplayName: 铝镐
+		Tooltip: 挖土块确实是一把利器
+	}
+
+	AluminumAxe: {
+		DisplayName: 铝斧
+		Tooltip: 树木根本没动嘛
+	}
+
+	AluminumHammer: {
+		DisplayName: 铝锤
+		Tooltip: 就和小时候的玩具锤差不多
+	}
+}
+
+#Items
+
+
+
+Projectiles: {
+	AluminumShortSwordProj.DisplayName: 铝短剑
+	AluminumBoomerangProj.DisplayName: 铝锡回旋镖
+	AluminumSpearProj.DisplayName: 铝锡长矛
+	AluminumYoy.DisplayName: 铝制悠悠球
+	AluminumDart.DisplayName: 铝飞镖
+	// AluminumDartProj.DisplayName: Aluminum Dart Proj
+	// AluminumYoyoProj.DisplayName: Aluminum Yoyo Proj
+}

@@ -1,0 +1,13 @@
+I suppose that coder remember to write down your name and the details that you do the day except what you write when git commit and push, so others can see.
+建议是，写下每次更新上传时候所做的事情，记得署名。
+画师、乐师上传文件时候也可以注明一下，比如上传/更新什么贴图什么的。
+说不定还能来点小剧场（划
+
+2023.8.6
+
+Coldoak:
+.建立模组文件，建立基本分类，建立gitbub仓库
+.更新铝制品文件 by XiYouo
+.更新本地化文件
+.加入RSUtils
+PS:文案快端上来，wiki快端上来，贴图快端上来，秃驴快干活
