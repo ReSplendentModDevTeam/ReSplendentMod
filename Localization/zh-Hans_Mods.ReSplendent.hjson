@@ -19,7 +19,18 @@ Items: {
 
 	# }Armors
 	
-	
+	# Bullets: {
+	ThermitArrow: {
+		DisplayName: Thermit Arrow
+		Tooltip: “泰拉科技，小子”
+	}
+
+	ThermitBullet: {
+		DisplayName: Thermit Bullet
+		Tooltip: “泰拉科技，小子”
+	}
+
+	# }Bullets
 	
 	# Weapons: {
 	AluminumBroadSword: {
@@ -91,6 +102,16 @@ Items: {
 		DisplayName: 铝锤
 		Tooltip: 就和小时候的玩具锤差不多
 	}
+
+	GelWand: {
+		DisplayName: 凝胶法杖
+		Tooltip: ""
+	}
+
+	SlimyWings: {
+		DisplayName: 粘翅
+		Tooltip: ""
+	}
 }
 
 #Items
@@ -105,4 +126,14 @@ Projectiles: {
 	AluminumDart.DisplayName: 铝飞镖
 	// AluminumDartProj.DisplayName: Aluminum Dart Proj
 	// AluminumYoyoProj.DisplayName: Aluminum Yoyo Proj
+	// ThermitArrowProj.DisplayName: Thermit Arrow Proj
+	// ThermitBulletProj.DisplayName: Thermit Bullet Proj
+	// GelWandProj.DisplayName: Gel Wand Proj
+}
+
+Buffs: {
+	ThermitBurning: {
+		// DisplayName: Thermit Burning
+		// Description: Mods.ReSplendent.Buffs.ThermitBurning.Description
+	}
 }

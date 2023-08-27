@@ -1,5 +1,4 @@
-﻿
-using ReSplendent.NPCs;
+﻿using ReSplendent.NPCs.GNPCs;
 using ReSplendent.Projectiles;
 
 namespace ReSplendent.RSUtils
